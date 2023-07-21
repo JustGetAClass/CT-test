@@ -128,3 +128,11 @@
 .mountain1, .mountain2{
     padding: 20px;
 }
+
+.footer{
+    background-color: rgb(52, 58, 85);
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
